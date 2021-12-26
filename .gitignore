@@ -1,3 +1,4 @@
 /backend/media/
 /backend/static/
 /.idea/
+*.py[cod]

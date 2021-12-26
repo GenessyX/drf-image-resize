@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     # third party
     "rest_framework",
     # apps
+    'images.apps.ImagesConfig',
 ]
 
 MIDDLEWARE = [
